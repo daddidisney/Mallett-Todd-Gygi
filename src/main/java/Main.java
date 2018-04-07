@@ -95,7 +95,7 @@ public class Main {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
-        public static Object getStamina() {
+        public static void getStamina() {
         Main.getStamina = stamina;
     }
     
