@@ -86,6 +86,17 @@ public class Main {
     public static void setGame(Game game) {
         Main.game = game;
     }
+
+    public static Object getName() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    public static Object getName() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
+        public static Object getStamina() {
+        Main.getStamina = stamina;
+    }
     
 }
